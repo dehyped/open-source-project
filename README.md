@@ -6,3 +6,6 @@ People learning stuff on dehyped.io!
 
 ## contributing
 If you think something should be added or removed, submit a `pull request`!
+
+## how to use this project
+You don't have to download anything, you're using it right now :)
